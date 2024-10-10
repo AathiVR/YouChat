@@ -4,5 +4,6 @@
     <corners android:radius="1000dp"/>
         <solid android:color="@color/theme_color"
             />
+    <corners android:radius="@android:dimen/app_icon_size"/>
 
 </shape>
