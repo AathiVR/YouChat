@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171911197405",
+    "project_id": "youchat-ac267",
+    "storage_bucket": "youchat-ac267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171911197405:android:3fe81e44345dbf304c6134",
+        "android_client_info": {
+          "package_name": "com.example.youchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRImrv1_yIzAiA9q89RXw0FoZfNXprswQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
